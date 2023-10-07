@@ -64,7 +64,4 @@ def recover_shape(data, shape_info):
     h, w, h_gap, w_gap_l, w_gap_r = shape_info
     data = data[..., 0:h, :]
     data = data[..., w_gap_l: w_gap_l+w]
-    # data = data[..., 0:w]
-    # data = data[..., w_gap_l: w_gap_l+w]
-    # data = data[..., 0:w]
     return data
