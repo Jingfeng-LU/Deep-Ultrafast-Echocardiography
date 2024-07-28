@@ -1,7 +1,7 @@
 # Ultrafast Cardiac Imaging Using Deep Learning
 This repo provides CNN model with trained weights in [Open Neural Network Exchange (ONNX)](https://onnx.ai) format and a inference demo script, for the following paper:
 
-[Ultrafast Cardiac Imaging Using Deep Learning For Speckle-Tracking Echocardiography](https://arxiv.org/abs/2306.14265)
+[Ultrafast Cardiac Imaging Using Deep Learning For Speckle-Tracking Echocardiography](https://ieeexplore.ieee.org/document/10288598)
 
 ## Repo Contents
 
